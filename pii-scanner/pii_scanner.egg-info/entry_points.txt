@@ -1,0 +1,2 @@
+[console_scripts]
+pii-scan = pii_scanner.cli:main

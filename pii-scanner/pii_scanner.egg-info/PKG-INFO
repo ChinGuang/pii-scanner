@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: pii-scanner
+Version: 0.1.0
+Summary: CLI tool to detect and fix PII leaks in Python codebases and log files
+Requires-Python: >=3.9

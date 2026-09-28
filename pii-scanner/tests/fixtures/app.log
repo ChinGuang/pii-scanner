@@ -1,0 +1,4 @@
+2024-01-15 10:23:01 INFO  Starting customer batch processor
+2024-01-15 10:23:02 INFO  Processing user john.doe@acme-bank.com card=4111111111111111 status=active
+2024-01-15 10:23:03 INFO  Record count: 142 processed successfully
+2024-01-15 10:23:04 ERROR Timeout reached for session abc-999
